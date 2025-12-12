@@ -23,6 +23,7 @@
 }
 
 body {
+    background-image: url('../static/black.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     font-family: "Dancing Script", cursive;
